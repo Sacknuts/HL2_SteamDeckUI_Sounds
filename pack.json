@@ -1,0 +1,10 @@
+{
+  "name": "HL2SteamDeckUISounds",
+  "description": "UI sounds from HL2 for Steam Deck",
+  "author": "Sacknuts",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
