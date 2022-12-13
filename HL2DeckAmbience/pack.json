@@ -1,0 +1,8 @@
+{
+  "name": "HL2Ambience",
+  "description": "Ambient citadel audio from HL2. All rights belong to Valve",
+  "author": "Sacknuts",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+}
